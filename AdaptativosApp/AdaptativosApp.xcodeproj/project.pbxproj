@@ -11,6 +11,7 @@
 		F28F061B2FB1B5A5000FB30C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28F061A2FB1B5A5000FB30C /* ContentView.swift */; };
 		F28F061D2FB1B5A7000FB30C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F28F061C2FB1B5A7000FB30C /* Assets.xcassets */; };
 		F28F06202FB1B5A7000FB30C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F28F061F2FB1B5A7000FB30C /* Preview Assets.xcassets */; };
+		F28F06272FB1B8A8000FB30C /* GeometryExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28F06262FB1B8A8000FB30C /* GeometryExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F28F061A2FB1B5A5000FB30C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F28F061C2FB1B5A7000FB30C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F28F061F2FB1B5A7000FB30C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F28F06262FB1B8A8000FB30C /* GeometryExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F28F06182FB1B5A5000FB30C /* AdaptativosAppApp.swift */,
 				F28F061A2FB1B5A5000FB30C /* ContentView.swift */,
+				F28F06262FB1B8A8000FB30C /* GeometryExample.swift */,
 				F28F061C2FB1B5A7000FB30C /* Assets.xcassets */,
 				F28F061E2FB1B5A7000FB30C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28F06272FB1B8A8000FB30C /* GeometryExample.swift in Sources */,
 				F28F061B2FB1B5A5000FB30C /* ContentView.swift in Sources */,
 				F28F06192FB1B5A5000FB30C /* AdaptativosAppApp.swift in Sources */,
 			);
