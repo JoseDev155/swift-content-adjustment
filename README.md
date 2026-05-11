@@ -1,6 +1,6 @@
 # PRÁCTICA 4 - GUÍA 5
 
-Repositorio de apps hechas en Swift, de la `GUÍA DE EJEMPLO 5 AJUSTE DE CONTENIDO.md`.
+Repositorio de apps hechas en Swift, de la `GUÍA DE EJEMPLO 5 AJUSTE DE CONTENIDO.pdf`.
 
 ## Estructura del repositorio
 
