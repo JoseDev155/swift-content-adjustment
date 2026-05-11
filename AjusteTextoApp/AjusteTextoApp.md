@@ -1,5 +1,5 @@
 # AjusteTextoApp
-Tercera app de iOS hecha en la Práctica 4, Guía 5.
+Cuarta app de iOS hecha en la Práctica 4, Guía 5.
 
 ## Funcionamiento
 Demuestra el uso de `minimumScaleFactor` en SwiftUI para ajustar automáticamente el tamaño de la fuente cuando el texto es demasiado largo para el espacio disponible.
