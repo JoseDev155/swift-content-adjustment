@@ -1,3 +1,10 @@
+//
+//  SpacerExample.swift
+//  SpacerApp
+//
+//  Created by Jose Ramos on 10/5/26.
+//
+
 import SwiftUI
 
 struct SpacerExample: View {
