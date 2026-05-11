@@ -16,8 +16,8 @@ struct GridExample: View {
             LazyVGrid(columns: columns, spacing: 20) {
                 ForEach(0..<10) { _ in
                     RoundedRectangle(cornerRadius: 10)
-                    .fill(.orange)
-                    .frame(height: 100)
+                        .fill(.orange)
+                        .frame(height: 100)
                 }
             }
             .padding()
